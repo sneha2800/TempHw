@@ -1,0 +1,44 @@
+Part A
+1 Acceptable
+2 Not Acceptable
+3 Not Acceptable
+4 Acceptable
+5 Not Acceptable
+6 Acceptable
+
+Part (b)
+   gedit - not recommended
+   emacs - recommended
+   Eclipse - recommended
+   sublime- recommended
+   Microsoft Visual Studio - recommended
+   notepad - not recommended
+
+Part (c)
+Students need to get an approval before submitting an assignment late.
+
+Part (d)
+Students need to get an approval before submitting an assignment late.
+
+Part (e)
+Complete the online late submission form.
+
+Problem 2
+
+Part (a)
+GitBash (Windows)
+Terminal (Mac or Linux)
+
+Part (b)
+1. git add hw1q2b.cpp
+2. git log -p -3
+
+Part (c)
+Git will commit all three files and make them a part of repository history of the branch master.
+
+
+
+
+
+
+  
